@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+nav a.active{
+    color: 'green';
+}
+.items li.selected{
+	background-color: blue;
+	color: green;
+}
